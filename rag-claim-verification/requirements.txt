@@ -1,0 +1,10 @@
+sentence-transformers
+faiss-cpu
+rank-bm25
+torch
+transformers
+openai
+requests
+numpy
+pandas
+jupyter
